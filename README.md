@@ -8,6 +8,7 @@ Project Features
 User authentication and authorization
 Data fetching and manipulation
 Routing and navigation
+
 Setup and Installation
 Bash
 npm install
