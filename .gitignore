@@ -1,0 +1,18 @@
+# Vite files
+vite.config.js
+vite/
+coverage/
+
+# React files
+node_modules/
+build/
+public/
+
+# Server files
+server/node_modules/
+server/dist/
+
+# Other files
+.DS_Store
+*.local
+*.config.js
